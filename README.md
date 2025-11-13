@@ -1,6 +1,6 @@
 # Introducción a Python (DAM)
 
-Repo con notebooks para la asignatura de Programación (Python).
+Repo con notebooks para introducir en la programación con lenguaje Python.
 
 ## Estructura
 
